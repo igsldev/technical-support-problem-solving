@@ -1,4 +1,4 @@
-LAN Ethernet Direct Connection Problem
+<h2>LAN Ethernet Direct Connection Problem</h2>
 
 Date Reported: 2023–11–24 <br>
 Date Resolved: 2023–11–24
@@ -24,10 +24,10 @@ bypassing the need for a Type-C extension cable. This approach eliminates the po
 
 ====================
 
-Technical Analysis of Desktop Fan and Power Supply Fluctuation
+<h2>Technical Analysis of Desktop Fan and Power Supply Fluctuation</h2>
 
-Date Reported: 2023-11-23
-Date Resolved: 2023-11-23
+Date Reported: 2023-11-23 <br>
+Date Resolved: 2023-11-23<br>
 
 Initial Observation:
 
