@@ -23,3 +23,7 @@ To ensure consistent and reliable connectivity, it is recommended to utilize a T
 bypassing the need for a Type-C extension cable. This approach eliminates the potential for compatibility issues and ensures optimal <br> performance for all connected devices.
 
 ====================
+
+Desktop Fan and Power Supply Turning on and off
+
+
