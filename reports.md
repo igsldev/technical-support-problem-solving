@@ -3,6 +3,7 @@ LAN Ethernet Direct Connection Problem
 Date Reported: 2023–11–24 <br>
 Date Resolved: 2023–11–24
 <br>
+<br>
 Observed Issue:
 <br>
 Upon establishing a direct LAN Ethernet connection using a Type-C extension cable, the monitor displayed successfully, <br>
