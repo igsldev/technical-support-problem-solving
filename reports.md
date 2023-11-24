@@ -24,16 +24,36 @@ bypassing the need for a Type-C extension cable. This approach eliminates the po
 
 ====================
 
-Issue: Desktop Fan and Power Supply Cycling On and Off
+Technical Analysis of Desktop Fan and Power Supply Fluctuation
 
-Upon observation, the desktop exhibits a behavior where it fails to display anything when powered on. Additionally, the fan located at the back of the desktop starts spinning, then abruptly stops in a repetitive cycle.
+Date Reported: 2023-11-23
+Date Resolved: 2023-11-23
 
-To address this issue, I conducted an internal inspection. I opened the desktop case, examined all peripherals for potential loose connections, and performed a thorough cleaning to eliminate dust. Despite these efforts, the problem persisted. Both the power supply and the internal fan continued to exhibit a pattern of starting and stopping.
+Initial Observation:
 
-To isolate the issue, I systematically unplugged all power supply connections within the desktop. Surprisingly, the power supply functioned correctly when disconnected from the desktop. This led me to suspect a potential problem within the motherboard.
+Upon power on, the desktop fails to display anything, and the rear fan exhibits intermittent rotation, indicating a potential hardware malfunction.
 
-To troubleshoot further, I relocated the RAM to an alternative slot, conducted another round of dust cleaning, and reconnected all internal motherboard components. Following these steps, the fan began to spin continuously, and the power supply fan no longer experienced interruptions.
+Troubleshooting Steps:
 
-The root cause of the problem appears to be a potential short circuit induced by accumulated dust.
+Internal Inspection:
+a. Open the desktop and check for loose connections and dust accumulation.
+b. Remove and reseat all peripheral connections and perform thorough dust cleaning.
+
+Power Supply Check:
+a. Disconnect all power supply connections from the desktop components.
+b. Power on the desktop with only the power supply connected to the motherboard.
+c. If the power supply fan continues to spin consistently, the issue likely lies within the motherboard or other components.
+
+Motherboard Inspection:
+a. Reseat the RAM modules into different slots and perform additional dust cleaning.
+b. Reconnect all internal cables and peripherals.
+
+Resolution:
+
+After completing these troubleshooting steps, the desktop successfully booted, and both fans maintained consistent rotation. The culprit was likely dust buildup causing intermittent connections and disruptions to the power flow.
+
+Conclusion:
+
+Regular dust cleaning and maintenance are crucial for ensuring optimal performance and preventing potential hardware malfunctions.
 
 ===================
