@@ -22,7 +22,7 @@ Recommendation:<br>
 To ensure consistent and reliable connectivity, it is recommended to utilize a Type-C hub adapter directly connected to the laptop, <br>
 bypassing the need for a Type-C extension cable. This approach eliminates the potential for compatibility issues and ensures optimal <br> performance for all connected devices.
 
-====================
+<hr>
 
 <h2>Technical Analysis of Desktop Fan and Power Supply Fluctuation</h2>
 
@@ -56,4 +56,4 @@ Conclusion:
 
 Regular dust cleaning and maintenance are crucial for ensuring optimal performance and preventing potential hardware malfunctions.
 
-===================
+<hr>
