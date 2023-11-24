@@ -1,6 +1,6 @@
 LAN Ethernet Direct Connection Problem
 
-Date Reported: 2023–11–24
+Date Reported: 2023–11–24 <br>
 Date Resolved: 2023–11–24
 <br>
 Observed Issue:
@@ -19,4 +19,4 @@ Recommendation:<br>
 To ensure consistent and reliable connectivity, it is recommended to utilize a Type-C hub adapter directly connected to the laptop, <br>
 bypassing the need for a Type-C extension cable. This approach eliminates the potential for compatibility issues and ensures optimal <br> performance for all connected devices.
 
-==================================================================================================================================
+=================================================================================
