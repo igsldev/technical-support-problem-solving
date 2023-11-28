@@ -96,3 +96,51 @@ The Magic Popup modal successfully replaced the problematic Bootstrap modal, pro
 We recommend continuing to use Magic Popup for modal functionality throughout the application to maintain consistency and ensure a seamless user experience. Additionally, we suggest regular maintenance and updates to the Magic Popup library to keep up with the latest developments and security enhancements.
 
 <hr>
+
+
+<h2>Technical Report: Addressing Student's Laptop Performance Issues</h2>
+
+Date Reported: 11/28/2023
+Date Issued Fix: 11/28/2023
+
+<b>Issue: </b>
+
+A student reported experiencing slow boot times and sluggish navigation on their laptop, hindering their productivity and overall user experience.
+
+<b>Investigation:</b>
+
+To understand the root cause of the performance issues, further investigation was necessary. This could involve:
+
+Collecting system specifications: Gathering information about the laptop's hardware, such as CPU, RAM, and storage, to identify potential bottlenecks.
+
+Checking resource utilization: Monitoring CPU, RAM, and disk usage patterns to identify any excessive resource consumption that could be causing the slowdown.
+
+Analyzing startup programs: Identifying any unnecessary or resource-intensive programs that are automatically launching at startup and contributing to the slow boot times.
+
+Assessing disk health: Checking the health of the hard drive or SSD to ensure it's not experiencing any physical or performance issues.
+
+Scanning for malware or viruses: Running a thorough scan for malware or viruses that could be affecting system performance.
+
+<b>Recommended Solution:</b>
+
+Based on the findings of the investigation, an appropriate solution could be implemented, such as:
+
+Optimizing startup programs: Disabling unnecessary startup programs to reduce the load on the system during boot.
+
+Upgrading hardware: Upgrading RAM or switching to a solid-state drive (SSD) if the laptop's hardware is outdated or insufficient.
+
+Performing disk maintenance: Defragmenting the hard drive or running disk cleanup tools to improve disk performance.
+
+Removing malware or viruses: Removing any detected malware or viruses to restore system performance and security.
+
+<b>Referral to Kuya Andy: </b>
+
+Considering the complexity of troubleshooting laptop performance issues and the potential need for hardware upgrades, it was suggested to refer the student to Kuya Andy. Kuya Andy is a trusted technician with expertise in laptop repair and upgrades. He can provide a comprehensive assessment of the student's laptop, identify the underlying issues, and recommend the most suitable solution.
+
+<b>Conclusion:</b>
+
+
+
+
+
+The student's laptop performance issues were addressed by recommending Kuya Andy for further assistance. Kuya Andy's expertise in laptop repair and upgrades will ensure that the student's laptop is diagnosed and repaired effectively, restoring optimal performance and a seamless user experience.
