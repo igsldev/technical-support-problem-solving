@@ -1,7 +1,7 @@
 <h2>LAN Ethernet Direct Connection Problem</h2>
 
-Date Reported: 2023–11–24 <br>
-Date Resolved: 2023–11–24
+Date Reported: 11/24/2023 <br>
+Date Resolved: 11/24/2023
 <br>
 <br>
 <b>Observed Issue:</b>
@@ -26,8 +26,8 @@ bypassing the need for a Type-C extension cable. This approach eliminates the po
 
 <h2>Technical Analysis of Desktop Fan and Power Supply Fluctuation</h2>
 
-Date Reported: 2023-11-23 <br>
-Date Resolved: 2023-11-23<br>
+Date Reported: 11/23/2023 <br>
+Date Resolved: 11/23/2023<br>
 
 <b>Initial Observation:</b>
 
@@ -60,8 +60,8 @@ Regular dust cleaning and maintenance are crucial for ensuring optimal performan
 
 <h2> Technical Report: Fixing IGSL Scholarship Adding Features</h2>
 
-Date Report: 11.28.2023
-Date Fixed: 11.28.2023
+Date Report: 11/28/2023 <br>
+Date Fixed: 11/28/2023
 
 <b>Problem: </b>
 
