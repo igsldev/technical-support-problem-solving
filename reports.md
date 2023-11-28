@@ -100,8 +100,8 @@ We recommend continuing to use Magic Popup for modal functionality throughout th
 
 <h2>Technical Report: Addressing Student's Laptop Performance Issues</h2>
 
-Date Reported: 11/28/2023
-Date Issued Fix: 11/28/2023
+Date Reported: 11/28/2023 <br>
+Date Fixed: 11/28/2023
 
 <b>Issue: </b>
 
@@ -144,3 +144,49 @@ Considering the complexity of troubleshooting laptop performance issues and the 
 
 
 The student's laptop performance issues were addressed by recommending Kuya Andy for further assistance. Kuya Andy's expertise in laptop repair and upgrades will ensure that the student's laptop is diagnosed and repaired effectively, restoring optimal performance and a seamless user experience.
+
+<hr>
+
+
+<h2>Technical Report: Resolving Google Search Bar Issue in New Chrome Tabs</h2>
+
+<b>Issue:</b>
+
+Users reported encountering an issue where the Google search bar was not displaying on the current tab when creating a new tab in Chrome. This issue disrupted the user's ability to seamlessly search the web using the integrated Google search functionality.
+
+<b>Investigation:</b>
+
+To identify the root cause of this issue, an investigation was conducted. This involved:
+
+Reviewing user reports: Analyzing user reports to understand the specific circumstances and context in which the issue occurred.
+
+Replicating the issue: Attempting to reproduce the issue in a controlled environment to gain further insights.
+
+Checking browser settings: Reviewing the user's Chrome settings to identify any potential configuration conflicts.
+
+<b>Diagnosis:</b>
+
+The investigation revealed that the issue stemmed from the Chrome setting "On startup," which was configured to open a specific page instead of the default new tab page. This configuration prevented the Google search bar from rendering correctly on the new tab.
+
+<b>Solution:</b>
+
+<b>To resolve the issue, the following solution was implemented:</b>
+
+Changing startup settings: The "On startup" setting was modified to open the new tab page instead of the specific page.
+Testing:
+
+After implementing the solution, thorough testing was conducted to ensure that the Google search bar was consistently displaying on the current tab when creating new tabs.
+
+<b>Results:</b>
+
+The implemented solution effectively resolved the issue, and the Google search bar was now reliably displayed on the current tab when creating new tabs. Users were able to seamlessly search the web without encountering the previous disruption.
+
+<b>Recommendations:</b>
+
+<b>To prevent similar issues from recurring, we recommend:</b>
+
+Educating users: Provide clear instructions and guidance to users regarding Chrome settings, especially those related to startup behavior.
+
+Monitoring settings changes: Implement mechanisms to monitor for any changes to critical settings that could affect user experience.
+
+Regularly updating Chrome: Ensure that users are running the latest version of Chrome to benefit from bug fixes and performance enhancements.
