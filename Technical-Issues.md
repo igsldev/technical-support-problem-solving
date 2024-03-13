@@ -18,3 +18,13 @@ Report Notes: <br>
 - Technical setup in another room for parents who wish to participate in plenary sessions.
 - Insufficient additional devices available for use on that day, but thankfully, individuals provided personal laptops for use during plenary sessions from day 1 to day 3.
 - Lack of technical support to manage that particular room.
+
+<br>
+
+Compliment Notes:
+<br>
+
+- The Technical Support team adeptly handled all unexpected changes on the day, even without prior notice from the LM department.
+- All technical-related issues were resolved smoothly and efficiently, with minimal disruptions.
+- Kudos to everyone who generously offered their assistance to the technical team, going above and beyond expectations despite the lack of communication from the event coordinators.
+  
